@@ -1,0 +1,911 @@
+[
+  {
+    "towar": {
+      "numer_towaru": "6811669",
+      "nazwa": "Reveal",
+      "ilość": "954",
+      "jednostka": "kg",
+      "wartość": "17562.45"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "3425775",
+      "nazwa": "Stock",
+      "ilość": "285",
+      "jednostka": "tony",
+      "wartość": "23234.13"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "7717891",
+      "nazwa": "Direction",
+      "ilość": "596",
+      "jednostka": "tony",
+      "wartość": "30581.07"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "8986058",
+      "nazwa": "Their",
+      "ilość": "224",
+      "jednostka": "tony",
+      "wartość": "21995.02"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "5708892",
+      "nazwa": "Design",
+      "ilość": "287",
+      "jednostka": "tony",
+      "wartość": "27146.18"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "7650335",
+      "nazwa": "Minute",
+      "ilość": "896",
+      "jednostka": "sztuki",
+      "wartość": "26143.52"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "6330838",
+      "nazwa": "Year",
+      "ilość": "512",
+      "jednostka": "kg",
+      "wartość": "3197.57"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "1079811",
+      "nazwa": "Or",
+      "ilość": "372",
+      "jednostka": "kg",
+      "wartość": "37157.48"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "1770026",
+      "nazwa": "Far",
+      "ilość": "697",
+      "jednostka": "tony",
+      "wartość": "13190.11"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "9634643",
+      "nazwa": "Develop",
+      "ilość": "90",
+      "jednostka": "tony",
+      "wartość": "35844.6"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "5781476",
+      "nazwa": "Couple",
+      "ilość": "93",
+      "jednostka": "sztuki",
+      "wartość": "41687.63"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "4974726",
+      "nazwa": "Phone",
+      "ilość": "393",
+      "jednostka": "tony",
+      "wartość": "41624.22"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "8188610",
+      "nazwa": "In",
+      "ilość": "462",
+      "jednostka": "sztuki",
+      "wartość": "31138.54"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "3417310",
+      "nazwa": "Center",
+      "ilość": "369",
+      "jednostka": "litry",
+      "wartość": "22183.86"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "5068846",
+      "nazwa": "Sort",
+      "ilość": "671",
+      "jednostka": "kg",
+      "wartość": "5911.03"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "9208628",
+      "nazwa": "Message",
+      "ilość": "410",
+      "jednostka": "kg",
+      "wartość": "42271.71"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "2259716",
+      "nazwa": "Learn",
+      "ilość": "36",
+      "jednostka": "kg",
+      "wartość": "6443.64"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "5197376",
+      "nazwa": "Machine",
+      "ilość": "816",
+      "jednostka": "tony",
+      "wartość": "31106.34"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "7894008",
+      "nazwa": "Become",
+      "ilość": "306",
+      "jednostka": "kg",
+      "wartość": "3403.63"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "1385911",
+      "nazwa": "Daughter",
+      "ilość": "120",
+      "jednostka": "tony",
+      "wartość": "20005.95"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "1890608",
+      "nazwa": "Cut",
+      "ilość": "885",
+      "jednostka": "tony",
+      "wartość": "36587.71"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "1716972",
+      "nazwa": "Then",
+      "ilość": "333",
+      "jednostka": "kg",
+      "wartość": "32537.77"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "5870677",
+      "nazwa": "State",
+      "ilość": "93",
+      "jednostka": "kg",
+      "wartość": "47501.39"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "4312001",
+      "nazwa": "Religious",
+      "ilość": "664",
+      "jednostka": "tony",
+      "wartość": "43410.85"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "5293750",
+      "nazwa": "Yard",
+      "ilość": "594",
+      "jednostka": "kg",
+      "wartość": "35305.01"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "6834535",
+      "nazwa": "Build",
+      "ilość": "789",
+      "jednostka": "tony",
+      "wartość": "49487.91"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "1496692",
+      "nazwa": "Here",
+      "ilość": "803",
+      "jednostka": "tony",
+      "wartość": "40071.78"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "6385625",
+      "nazwa": "Social",
+      "ilość": "123",
+      "jednostka": "sztuki",
+      "wartość": "32620.83"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "3506045",
+      "nazwa": "Suddenly",
+      "ilość": "621",
+      "jednostka": "sztuki",
+      "wartość": "44571.97"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "4610689",
+      "nazwa": "Congress",
+      "ilość": "85",
+      "jednostka": "tony",
+      "wartość": "44902.18"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "1450276",
+      "nazwa": "Catch",
+      "ilość": "400",
+      "jednostka": "sztuki",
+      "wartość": "37190.81"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "2577472",
+      "nazwa": "Hope",
+      "ilość": "319",
+      "jednostka": "sztuki",
+      "wartość": "35218.1"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "4358932",
+      "nazwa": "Message",
+      "ilość": "259",
+      "jednostka": "sztuki",
+      "wartość": "24479.68"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "7339138",
+      "nazwa": "Claim",
+      "ilość": "557",
+      "jednostka": "tony",
+      "wartość": "16679.54"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "8920081",
+      "nazwa": "Role",
+      "ilość": "104",
+      "jednostka": "tony",
+      "wartość": "17821.27"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "4914767",
+      "nazwa": "Car",
+      "ilość": "961",
+      "jednostka": "kg",
+      "wartość": "13955.73"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "2325769",
+      "nazwa": "Add",
+      "ilość": "535",
+      "jednostka": "tony",
+      "wartość": "9015.52"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "3923644",
+      "nazwa": "Main",
+      "ilość": "256",
+      "jednostka": "kg",
+      "wartość": "48314.08"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "3207424",
+      "nazwa": "Consider",
+      "ilość": "248",
+      "jednostka": "sztuki",
+      "wartość": "9070.95"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "8939364",
+      "nazwa": "Change",
+      "ilość": "724",
+      "jednostka": "sztuki",
+      "wartość": "10433.06"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "2233658",
+      "nazwa": "Sometimes",
+      "ilość": "641",
+      "jednostka": "litry",
+      "wartość": "28848.38"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "6173505",
+      "nazwa": "Successful",
+      "ilość": "997",
+      "jednostka": "litry",
+      "wartość": "22325.31"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "5428373",
+      "nazwa": "Support",
+      "ilość": "15",
+      "jednostka": "sztuki",
+      "wartość": "41890.88"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "7510849",
+      "nazwa": "Score",
+      "ilość": "650",
+      "jednostka": "litry",
+      "wartość": "41581.25"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "8466826",
+      "nazwa": "Large",
+      "ilość": "471",
+      "jednostka": "kg",
+      "wartość": "23796.68"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "5400949",
+      "nazwa": "Ready",
+      "ilość": "96",
+      "jednostka": "kg",
+      "wartość": "42351.08"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "8043393",
+      "nazwa": "Within",
+      "ilość": "914",
+      "jednostka": "sztuki",
+      "wartość": "31681.36"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "5726259",
+      "nazwa": "Add",
+      "ilość": "364",
+      "jednostka": "kg",
+      "wartość": "47843.21"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "5012088",
+      "nazwa": "Song",
+      "ilość": "118",
+      "jednostka": "sztuki",
+      "wartość": "5541.28"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "6041900",
+      "nazwa": "Republican",
+      "ilość": "219",
+      "jednostka": "tony",
+      "wartość": "23782.87"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "5384704",
+      "nazwa": "Particularly",
+      "ilość": "275",
+      "jednostka": "kg",
+      "wartość": "10548.77"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "7156098",
+      "nazwa": "Series",
+      "ilość": "19",
+      "jednostka": "tony",
+      "wartość": "42818.22"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "6029352",
+      "nazwa": "Dog",
+      "ilość": "228",
+      "jednostka": "tony",
+      "wartość": "49117.08"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "9695878",
+      "nazwa": "Leg",
+      "ilość": "3",
+      "jednostka": "litry",
+      "wartość": "8938.83"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "8817849",
+      "nazwa": "Mean",
+      "ilość": "348",
+      "jednostka": "sztuki",
+      "wartość": "34533.99"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "4455843",
+      "nazwa": "Mr",
+      "ilość": "873",
+      "jednostka": "kg",
+      "wartość": "5801.71"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "3244519",
+      "nazwa": "Somebody",
+      "ilość": "276",
+      "jednostka": "sztuki",
+      "wartość": "35416.05"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "8423192",
+      "nazwa": "Thousand",
+      "ilość": "379",
+      "jednostka": "kg",
+      "wartość": "31589.3"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "8299691",
+      "nazwa": "Price",
+      "ilość": "923",
+      "jednostka": "sztuki",
+      "wartość": "20914.19"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "3150758",
+      "nazwa": "Return",
+      "ilość": "547",
+      "jednostka": "sztuki",
+      "wartość": "5902.63"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "7173389",
+      "nazwa": "Hot",
+      "ilość": "237",
+      "jednostka": "sztuki",
+      "wartość": "2011.23"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "2035833",
+      "nazwa": "Line",
+      "ilość": "626",
+      "jednostka": "tony",
+      "wartość": "48125.21"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "8541794",
+      "nazwa": "Language",
+      "ilość": "201",
+      "jednostka": "sztuki",
+      "wartość": "32148.03"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "8579448",
+      "nazwa": "Trouble",
+      "ilość": "223",
+      "jednostka": "litry",
+      "wartość": "46856.29"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "6537112",
+      "nazwa": "Take",
+      "ilość": "793",
+      "jednostka": "tony",
+      "wartość": "26897.46"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "5306513",
+      "nazwa": "Camera",
+      "ilość": "2",
+      "jednostka": "sztuki",
+      "wartość": "5360.92"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "8789964",
+      "nazwa": "Message",
+      "ilość": "620",
+      "jednostka": "tony",
+      "wartość": "7076.5"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "2449917",
+      "nazwa": "Test",
+      "ilość": "934",
+      "jednostka": "litry",
+      "wartość": "34544.19"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "6827379",
+      "nazwa": "Item",
+      "ilość": "273",
+      "jednostka": "tony",
+      "wartość": "21805.28"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "7102747",
+      "nazwa": "Actually",
+      "ilość": "829",
+      "jednostka": "sztuki",
+      "wartość": "6650.57"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "6853723",
+      "nazwa": "Very",
+      "ilość": "664",
+      "jednostka": "tony",
+      "wartość": "49761.61"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "6878372",
+      "nazwa": "Free",
+      "ilość": "350",
+      "jednostka": "litry",
+      "wartość": "19155.07"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "2475991",
+      "nazwa": "Certain",
+      "ilość": "985",
+      "jednostka": "kg",
+      "wartość": "5067.46"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "9736854",
+      "nazwa": "Certainly",
+      "ilość": "338",
+      "jednostka": "sztuki",
+      "wartość": "46717.32"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "9331373",
+      "nazwa": "Reflect",
+      "ilość": "238",
+      "jednostka": "litry",
+      "wartość": "26074.94"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "1744312",
+      "nazwa": "These",
+      "ilość": "96",
+      "jednostka": "kg",
+      "wartość": "25111.28"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "6947622",
+      "nazwa": "Civil",
+      "ilość": "709",
+      "jednostka": "sztuki",
+      "wartość": "47952.97"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "9841048",
+      "nazwa": "Check",
+      "ilość": "289",
+      "jednostka": "sztuki",
+      "wartość": "26009.71"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "9845382",
+      "nazwa": "Forget",
+      "ilość": "319",
+      "jednostka": "kg",
+      "wartość": "12241.57"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "3718162",
+      "nazwa": "Between",
+      "ilość": "498",
+      "jednostka": "kg",
+      "wartość": "21637.78"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "9849790",
+      "nazwa": "Community",
+      "ilość": "363",
+      "jednostka": "litry",
+      "wartość": "32357.56"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "6211324",
+      "nazwa": "Speech",
+      "ilość": "477",
+      "jednostka": "tony",
+      "wartość": "28880.83"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "1627099",
+      "nazwa": "Financial",
+      "ilość": "425",
+      "jednostka": "litry",
+      "wartość": "17257.42"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "6588804",
+      "nazwa": "Thousand",
+      "ilość": "476",
+      "jednostka": "kg",
+      "wartość": "2021.89"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "5385573",
+      "nazwa": "Box",
+      "ilość": "430",
+      "jednostka": "litry",
+      "wartość": "9691.11"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "9076037",
+      "nazwa": "Or",
+      "ilość": "510",
+      "jednostka": "sztuki",
+      "wartość": "17736.93"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "7816284",
+      "nazwa": "Forward",
+      "ilość": "464",
+      "jednostka": "tony",
+      "wartość": "46809.39"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "5831292",
+      "nazwa": "Whatever",
+      "ilość": "929",
+      "jednostka": "kg",
+      "wartość": "32392.16"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "9784224",
+      "nazwa": "Subject",
+      "ilość": "325",
+      "jednostka": "tony",
+      "wartość": "15683.37"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "1502866",
+      "nazwa": "Understand",
+      "ilość": "865",
+      "jednostka": "sztuki",
+      "wartość": "13669.92"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "5322882",
+      "nazwa": "Paper",
+      "ilość": "200",
+      "jednostka": "tony",
+      "wartość": "6908.58"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "2321094",
+      "nazwa": "Effect",
+      "ilość": "263",
+      "jednostka": "litry",
+      "wartość": "49544.86"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "6305988",
+      "nazwa": "Stop",
+      "ilość": "414",
+      "jednostka": "tony",
+      "wartość": "36278.11"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "4016223",
+      "nazwa": "Current",
+      "ilość": "582",
+      "jednostka": "tony",
+      "wartość": "25939.06"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "9248483",
+      "nazwa": "Cell",
+      "ilość": "16",
+      "jednostka": "litry",
+      "wartość": "777.52"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "4405440",
+      "nazwa": "Through",
+      "ilość": "487",
+      "jednostka": "sztuki",
+      "wartość": "44513.73"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "1799623",
+      "nazwa": "For",
+      "ilość": "643",
+      "jednostka": "kg",
+      "wartość": "12109.73"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "8137097",
+      "nazwa": "Rather",
+      "ilość": "51",
+      "jednostka": "kg",
+      "wartość": "13448.52"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "7159901",
+      "nazwa": "Property",
+      "ilość": "920",
+      "jednostka": "tony",
+      "wartość": "40815.75"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "8478259",
+      "nazwa": "Team",
+      "ilość": "589",
+      "jednostka": "kg",
+      "wartość": "49172.23"
+    }
+  },
+  {
+    "towar": {
+      "numer_towaru": "9999999",
+      "nazwa": "Nowy Towar",
+      "ilość": "1000",
+      "jednostka": "kg",
+      "wartość": "25000.00"
+    }
+  }
+]

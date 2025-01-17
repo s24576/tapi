@@ -1,0 +1,3202 @@
+[
+  {
+    "zlecenie": {
+      "numer_zlecenia": "792849-3253",
+      "data_utworzenia": "1990-08-02",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Hernandez and Sons",
+        "nip": "469-832-00-10",
+        "adres": {
+          "ulica": "3614 Thomas Turnpike",
+          "miasto": "Port Michelleville",
+          "kod_pocztowy": "34890",
+          "kraj": "Pakistan"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "East Jeremychester",
+          "kod_UNLOCODE": "BDWJK"
+        },
+        "port_docelowy": {
+          "nazwa": "Reneebury",
+          "kod_UNLOCODE": "GEAAJ"
+        },
+        "terminy": {
+          "załadunek": "1990-05-11",
+          "wyjście_statku": "1975-05-21",
+          "przewidywane_dostarczenie": "2004-04-07"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "702299-6309",
+      "data_utworzenia": "1999-12-18",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Mccall-Fuller",
+        "nip": "835-484-40-20",
+        "adres": {
+          "ulica": "77792 Wright Skyway",
+          "miasto": "Allenberg",
+          "kod_pocztowy": "35718",
+          "kraj": "Bouvet Island (Bouvetoya)"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "New Donald",
+          "kod_UNLOCODE": "LTWVX"
+        },
+        "port_docelowy": {
+          "nazwa": "Port Raymondmouth",
+          "kod_UNLOCODE": "VNCOR"
+        },
+        "terminy": {
+          "załadunek": "1998-11-06",
+          "wyjście_statku": "1976-12-20",
+          "przewidywane_dostarczenie": "1977-10-31"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "393506-2486",
+      "data_utworzenia": "2012-05-30",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Weaver-Garcia",
+        "nip": "579-791-49-62",
+        "adres": {
+          "ulica": "6445 Russell Fork Apt. 951",
+          "miasto": "West Carolyn",
+          "kod_pocztowy": "83164",
+          "kraj": "Gabon"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Mckenzieburgh",
+          "kod_UNLOCODE": "VNIYP"
+        },
+        "port_docelowy": {
+          "nazwa": "Bonnieport",
+          "kod_UNLOCODE": "BSMSK"
+        },
+        "terminy": {
+          "załadunek": "2020-11-22",
+          "wyjście_statku": "2013-03-19",
+          "przewidywane_dostarczenie": "1986-11-23"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "796908-4134",
+      "data_utworzenia": "2021-07-15",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Bradley, Martinez and Andrews",
+        "nip": "641-233-07-38",
+        "adres": {
+          "ulica": "54329 Julie Via",
+          "miasto": "West Randy",
+          "kod_pocztowy": "57777",
+          "kraj": "Namibia"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "North Emilyland",
+          "kod_UNLOCODE": "CDVUT"
+        },
+        "port_docelowy": {
+          "nazwa": "Natalieton",
+          "kod_UNLOCODE": "ISDAL"
+        },
+        "terminy": {
+          "załadunek": "1976-01-09",
+          "wyjście_statku": "2023-02-12",
+          "przewidywane_dostarczenie": "1970-08-02"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "803382-4945",
+      "data_utworzenia": "2024-08-05",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Johnson PLC",
+        "nip": "080-141-75-89",
+        "adres": {
+          "ulica": "2150 Buckley Mountain",
+          "miasto": "West Savannahbury",
+          "kod_pocztowy": "77226",
+          "kraj": "Sao Tome and Principe"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Jacksonborough",
+          "kod_UNLOCODE": "BGNMV"
+        },
+        "port_docelowy": {
+          "nazwa": "Boyermouth",
+          "kod_UNLOCODE": "NOIFL"
+        },
+        "terminy": {
+          "załadunek": "1998-04-16",
+          "wyjście_statku": "1986-01-14",
+          "przewidywane_dostarczenie": "1976-07-14"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "432438-8020",
+      "data_utworzenia": "1971-09-24",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Farrell Ltd",
+        "nip": "231-154-43-97",
+        "adres": {
+          "ulica": "0780 Thompson Land Suite 731",
+          "miasto": "Williamsonview",
+          "kod_pocztowy": "02492",
+          "kraj": "Puerto Rico"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Trevinomouth",
+          "kod_UNLOCODE": "CDSXY"
+        },
+        "port_docelowy": {
+          "nazwa": "South Andrewshire",
+          "kod_UNLOCODE": "GMCRT"
+        },
+        "terminy": {
+          "załadunek": "1998-01-23",
+          "wyjście_statku": "2024-01-14",
+          "przewidywane_dostarczenie": "2017-05-05"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "836420-8914",
+      "data_utworzenia": "1990-11-21",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Watkins-Simpson",
+        "nip": "757-722-49-37",
+        "adres": {
+          "ulica": "06462 Schroeder Street",
+          "miasto": "Lake Coryside",
+          "kod_pocztowy": "70781",
+          "kraj": "Israel"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "South Eric",
+          "kod_UNLOCODE": "MMXMR"
+        },
+        "port_docelowy": {
+          "nazwa": "Rebekahbury",
+          "kod_UNLOCODE": "EEQRQ"
+        },
+        "terminy": {
+          "załadunek": "2007-06-29",
+          "wyjście_statku": "2005-07-15",
+          "przewidywane_dostarczenie": "1992-08-31"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "743389-1693",
+      "data_utworzenia": "1993-10-07",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Soto-Smith",
+        "nip": "420-358-84-68",
+        "adres": {
+          "ulica": "0917 Dalton Radial",
+          "miasto": "Danview",
+          "kod_pocztowy": "51919",
+          "kraj": "Kuwait"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Reynoldsberg",
+          "kod_UNLOCODE": "CVVBW"
+        },
+        "port_docelowy": {
+          "nazwa": "New Andreaport",
+          "kod_UNLOCODE": "KNYHF"
+        },
+        "terminy": {
+          "załadunek": "1990-08-21",
+          "wyjście_statku": "2014-04-13",
+          "przewidywane_dostarczenie": "2007-06-08"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "837270-9495",
+      "data_utworzenia": "2003-10-24",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "White Inc",
+        "nip": "402-078-18-31",
+        "adres": {
+          "ulica": "966 Cassandra Shoals Apt. 546",
+          "miasto": "North Marvinport",
+          "kod_pocztowy": "28144",
+          "kraj": "Venezuela"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Port Heatherfort",
+          "kod_UNLOCODE": "KMFCS"
+        },
+        "port_docelowy": {
+          "nazwa": "North Douglas",
+          "kod_UNLOCODE": "STGUF"
+        },
+        "terminy": {
+          "załadunek": "2020-08-15",
+          "wyjście_statku": "2002-03-23",
+          "przewidywane_dostarczenie": "2020-02-01"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "686269-2894",
+      "data_utworzenia": "2005-12-11",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Barton-Miller",
+        "nip": "052-518-56-50",
+        "adres": {
+          "ulica": "880 Katie Mall Suite 536",
+          "miasto": "West Keithville",
+          "kod_pocztowy": "11948",
+          "kraj": "Montserrat"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "North Christina",
+          "kod_UNLOCODE": "DZNLI"
+        },
+        "port_docelowy": {
+          "nazwa": "Port Larry",
+          "kod_UNLOCODE": "ROXRF"
+        },
+        "terminy": {
+          "załadunek": "2005-10-10",
+          "wyjście_statku": "2008-09-14",
+          "przewidywane_dostarczenie": "1972-12-07"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "737402-2398",
+      "data_utworzenia": "2023-09-02",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Green, White and Knight",
+        "nip": "246-875-24-29",
+        "adres": {
+          "ulica": "8116 Christopher Springs Apt. 397",
+          "miasto": "North Lydia",
+          "kod_pocztowy": "82038",
+          "kraj": "Cote d'Ivoire"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Cortezland",
+          "kod_UNLOCODE": "CHJIF"
+        },
+        "port_docelowy": {
+          "nazwa": "New Marvin",
+          "kod_UNLOCODE": "DJRGS"
+        },
+        "terminy": {
+          "załadunek": "2004-06-24",
+          "wyjście_statku": "1978-12-09",
+          "przewidywane_dostarczenie": "2012-08-22"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "451503-5765",
+      "data_utworzenia": "1995-11-27",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "York-Russell",
+        "nip": "930-084-01-27",
+        "adres": {
+          "ulica": "4113 White Villages",
+          "miasto": "Shannonside",
+          "kod_pocztowy": "23508",
+          "kraj": "New Caledonia"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "New Charles",
+          "kod_UNLOCODE": "MUDYT"
+        },
+        "port_docelowy": {
+          "nazwa": "Port Shannonchester",
+          "kod_UNLOCODE": "HRKRB"
+        },
+        "terminy": {
+          "załadunek": "1991-12-10",
+          "wyjście_statku": "2015-05-16",
+          "przewidywane_dostarczenie": "2009-10-11"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "284078-1172",
+      "data_utworzenia": "1987-02-03",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Gonzalez-Mcguire",
+        "nip": "127-982-10-91",
+        "adres": {
+          "ulica": "398 Thomas Ranch Suite 634",
+          "miasto": "West Julia",
+          "kod_pocztowy": "64633",
+          "kraj": "Serbia"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "North Josebury",
+          "kod_UNLOCODE": "MNBDD"
+        },
+        "port_docelowy": {
+          "nazwa": "New Frankchester",
+          "kod_UNLOCODE": "MNTPY"
+        },
+        "terminy": {
+          "załadunek": "2007-02-04",
+          "wyjście_statku": "2019-01-03",
+          "przewidywane_dostarczenie": "2010-05-20"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "853674-7402",
+      "data_utworzenia": "1997-11-08",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Mcdonald, Barber and Powell",
+        "nip": "716-214-58-46",
+        "adres": {
+          "ulica": "7695 Amy Branch Apt. 093",
+          "miasto": "Lake Ashleyfurt",
+          "kod_pocztowy": "16774",
+          "kraj": "Swaziland"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Smithberg",
+          "kod_UNLOCODE": "MXULJ"
+        },
+        "port_docelowy": {
+          "nazwa": "West Virginiaport",
+          "kod_UNLOCODE": "SYHQT"
+        },
+        "terminy": {
+          "załadunek": "2005-08-13",
+          "wyjście_statku": "2004-08-25",
+          "przewidywane_dostarczenie": "1976-10-04"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "182883-8856",
+      "data_utworzenia": "2001-04-05",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Washington-Roberts",
+        "nip": "247-555-11-78",
+        "adres": {
+          "ulica": "43829 Thornton Falls",
+          "miasto": "Lake Anthony",
+          "kod_pocztowy": "22440",
+          "kraj": "Montenegro"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Michellefort",
+          "kod_UNLOCODE": "ISXTF"
+        },
+        "port_docelowy": {
+          "nazwa": "Mariafort",
+          "kod_UNLOCODE": "DEQKQ"
+        },
+        "terminy": {
+          "załadunek": "1978-03-05",
+          "wyjście_statku": "2004-07-01",
+          "przewidywane_dostarczenie": "2021-11-14"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "321232-4460",
+      "data_utworzenia": "1989-09-21",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Jones PLC",
+        "nip": "764-705-44-74",
+        "adres": {
+          "ulica": "87504 Bowman Ferry Suite 265",
+          "miasto": "East Johnburgh",
+          "kod_pocztowy": "66132",
+          "kraj": "Macedonia"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "West Douglas",
+          "kod_UNLOCODE": "VNVFV"
+        },
+        "port_docelowy": {
+          "nazwa": "Victoriamouth",
+          "kod_UNLOCODE": "ZAROB"
+        },
+        "terminy": {
+          "załadunek": "1990-01-24",
+          "wyjście_statku": "2023-08-21",
+          "przewidywane_dostarczenie": "1977-01-21"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "163126-2448",
+      "data_utworzenia": "1979-06-28",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Moore PLC",
+        "nip": "715-960-00-02",
+        "adres": {
+          "ulica": "4094 Yolanda Plain",
+          "miasto": "Tylerstad",
+          "kod_pocztowy": "02306",
+          "kraj": "China"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Schneiderview",
+          "kod_UNLOCODE": "TJDZO"
+        },
+        "port_docelowy": {
+          "nazwa": "Martinezburgh",
+          "kod_UNLOCODE": "HNYAX"
+        },
+        "terminy": {
+          "załadunek": "1975-11-07",
+          "wyjście_statku": "1971-08-21",
+          "przewidywane_dostarczenie": "2007-11-02"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "952572-2483",
+      "data_utworzenia": "1988-12-03",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Singleton-Garcia",
+        "nip": "907-173-89-25",
+        "adres": {
+          "ulica": "57573 Juan Plains Suite 884",
+          "miasto": "Carterfurt",
+          "kod_pocztowy": "82351",
+          "kraj": "Niger"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Ryanside",
+          "kod_UNLOCODE": "PAGQV"
+        },
+        "port_docelowy": {
+          "nazwa": "Josephside",
+          "kod_UNLOCODE": "NICKP"
+        },
+        "terminy": {
+          "załadunek": "2012-12-26",
+          "wyjście_statku": "2007-10-31",
+          "przewidywane_dostarczenie": "2018-07-19"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "420054-1434",
+      "data_utworzenia": "2003-04-30",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Jackson, Thompson and Harris",
+        "nip": "392-688-01-91",
+        "adres": {
+          "ulica": "612 Eileen Meadows Suite 183",
+          "miasto": "Lake Victoria",
+          "kod_pocztowy": "31321",
+          "kraj": "Isle of Man"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Kevinton",
+          "kod_UNLOCODE": "TJRKL"
+        },
+        "port_docelowy": {
+          "nazwa": "New Maryhaven",
+          "kod_UNLOCODE": "ZAQLL"
+        },
+        "terminy": {
+          "załadunek": "1971-07-14",
+          "wyjście_statku": "1991-09-05",
+          "przewidywane_dostarczenie": "2018-09-15"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "760429-1500",
+      "data_utworzenia": "1984-12-30",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Norris-Fleming",
+        "nip": "976-608-31-42",
+        "adres": {
+          "ulica": "919 Lopez Estate Suite 660",
+          "miasto": "Rebeccamouth",
+          "kod_pocztowy": "70317",
+          "kraj": "Oman"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "South Michaelberg",
+          "kod_UNLOCODE": "KRTLC"
+        },
+        "port_docelowy": {
+          "nazwa": "Wattsmouth",
+          "kod_UNLOCODE": "TVGZQ"
+        },
+        "terminy": {
+          "załadunek": "2011-02-23",
+          "wyjście_statku": "2008-11-22",
+          "przewidywane_dostarczenie": "2021-12-12"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "802745-1083",
+      "data_utworzenia": "1991-06-04",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Carpenter, Williams and Mosley",
+        "nip": "449-012-68-35",
+        "adres": {
+          "ulica": "8245 Schneider Crescent",
+          "miasto": "Julieshire",
+          "kod_pocztowy": "10364",
+          "kraj": "Iran"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "East Deborahchester",
+          "kod_UNLOCODE": "MMGPW"
+        },
+        "port_docelowy": {
+          "nazwa": "Lake Feliciachester",
+          "kod_UNLOCODE": "MRXAX"
+        },
+        "terminy": {
+          "załadunek": "2014-03-27",
+          "wyjście_statku": "1995-08-31",
+          "przewidywane_dostarczenie": "1975-12-23"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "848205-7800",
+      "data_utworzenia": "2019-08-03",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Lee LLC",
+        "nip": "009-791-31-15",
+        "adres": {
+          "ulica": "8085 Gary Shoals Apt. 414",
+          "miasto": "Lake Jason",
+          "kod_pocztowy": "16511",
+          "kraj": "Costa Rica"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Kathrynmouth",
+          "kod_UNLOCODE": "THIOH"
+        },
+        "port_docelowy": {
+          "nazwa": "Lopezfurt",
+          "kod_UNLOCODE": "CUJUC"
+        },
+        "terminy": {
+          "załadunek": "1985-03-06",
+          "wyjście_statku": "1989-09-20",
+          "przewidywane_dostarczenie": "1990-11-30"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "967199-8118",
+      "data_utworzenia": "2013-10-07",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Mcbride, Sanford and Owens",
+        "nip": "745-040-57-86",
+        "adres": {
+          "ulica": "97783 Kelly Port",
+          "miasto": "Virginiaville",
+          "kod_pocztowy": "15881",
+          "kraj": "Mexico"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Port Jacquelineville",
+          "kod_UNLOCODE": "LAYTE"
+        },
+        "port_docelowy": {
+          "nazwa": "North Michael",
+          "kod_UNLOCODE": "STWLE"
+        },
+        "terminy": {
+          "załadunek": "1997-04-04",
+          "wyjście_statku": "1984-05-14",
+          "przewidywane_dostarczenie": "2021-01-01"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "879280-7078",
+      "data_utworzenia": "1993-01-22",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Cox Ltd",
+        "nip": "683-847-45-20",
+        "adres": {
+          "ulica": "1808 Vincent Camp Suite 462",
+          "miasto": "Port Nathaniel",
+          "kod_pocztowy": "59868",
+          "kraj": "Bulgaria"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "South Georgeville",
+          "kod_UNLOCODE": "SIEYJ"
+        },
+        "port_docelowy": {
+          "nazwa": "Lake Zacharyborough",
+          "kod_UNLOCODE": "MYMWQ"
+        },
+        "terminy": {
+          "załadunek": "1995-12-01",
+          "wyjście_statku": "1973-04-20",
+          "przewidywane_dostarczenie": "1999-06-26"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "140408-2289",
+      "data_utworzenia": "1980-06-14",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Hunt, Hernandez and Collins",
+        "nip": "312-874-03-12",
+        "adres": {
+          "ulica": "75260 Gill Tunnel Apt. 179",
+          "miasto": "South Jeremystad",
+          "kod_pocztowy": "69650",
+          "kraj": "Monaco"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Lisabury",
+          "kod_UNLOCODE": "GHCUC"
+        },
+        "port_docelowy": {
+          "nazwa": "Lake Dianaton",
+          "kod_UNLOCODE": "ZWRTT"
+        },
+        "terminy": {
+          "załadunek": "2013-02-09",
+          "wyjście_statku": "2023-06-29",
+          "przewidywane_dostarczenie": "1978-09-27"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "284586-3617",
+      "data_utworzenia": "2002-03-20",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Bradley-Roy",
+        "nip": "484-126-14-64",
+        "adres": {
+          "ulica": "222 Walton Shoal Apt. 502",
+          "miasto": "Smithfort",
+          "kod_pocztowy": "06102",
+          "kraj": "Nigeria"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "West Matthewmouth",
+          "kod_UNLOCODE": "MHCFA"
+        },
+        "port_docelowy": {
+          "nazwa": "New Jackchester",
+          "kod_UNLOCODE": "CHGPO"
+        },
+        "terminy": {
+          "załadunek": "2009-06-01",
+          "wyjście_statku": "1977-09-25",
+          "przewidywane_dostarczenie": "1972-02-16"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "415888-7640",
+      "data_utworzenia": "1992-09-01",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Kim-Mason",
+        "nip": "902-186-99-22",
+        "adres": {
+          "ulica": "2400 Thomas Centers",
+          "miasto": "Karaland",
+          "kod_pocztowy": "98474",
+          "kraj": "United States Minor Outlying Islands"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "South Susan",
+          "kod_UNLOCODE": "KRDFT"
+        },
+        "port_docelowy": {
+          "nazwa": "South Derrickchester",
+          "kod_UNLOCODE": "UARQG"
+        },
+        "terminy": {
+          "załadunek": "1979-11-21",
+          "wyjście_statku": "1975-09-29",
+          "przewidywane_dostarczenie": "1983-10-03"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "269241-2217",
+      "data_utworzenia": "2006-06-29",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Perez-Mcknight",
+        "nip": "443-201-24-32",
+        "adres": {
+          "ulica": "3315 Davis Pine Suite 039",
+          "miasto": "East Carl",
+          "kod_pocztowy": "41773",
+          "kraj": "Norway"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "New Laurenfort",
+          "kod_UNLOCODE": "KPTBT"
+        },
+        "port_docelowy": {
+          "nazwa": "North Cynthiaside",
+          "kod_UNLOCODE": "BHRPA"
+        },
+        "terminy": {
+          "załadunek": "1998-03-01",
+          "wyjście_statku": "1991-08-05",
+          "przewidywane_dostarczenie": "1984-06-06"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "412533-3953",
+      "data_utworzenia": "1987-11-11",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Robinson-Keith",
+        "nip": "836-273-77-13",
+        "adres": {
+          "ulica": "6907 Phelps Overpass",
+          "miasto": "Jonathanmouth",
+          "kod_pocztowy": "02867",
+          "kraj": "Syrian Arab Republic"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Gilesbury",
+          "kod_UNLOCODE": "IRJSI"
+        },
+        "port_docelowy": {
+          "nazwa": "West Michael",
+          "kod_UNLOCODE": "SDAHD"
+        },
+        "terminy": {
+          "załadunek": "1990-10-16",
+          "wyjście_statku": "1988-03-18",
+          "przewidywane_dostarczenie": "2013-07-14"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "225014-9899",
+      "data_utworzenia": "2019-05-03",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Edwards-Wallace",
+        "nip": "027-937-35-43",
+        "adres": {
+          "ulica": "6573 Espinoza Plains Suite 886",
+          "miasto": "Jamesshire",
+          "kod_pocztowy": "25680",
+          "kraj": "Guinea-Bissau"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Port Erikabury",
+          "kod_UNLOCODE": "IQYZW"
+        },
+        "port_docelowy": {
+          "nazwa": "Wolfemouth",
+          "kod_UNLOCODE": "SIRZW"
+        },
+        "terminy": {
+          "załadunek": "1983-12-04",
+          "wyjście_statku": "2020-03-20",
+          "przewidywane_dostarczenie": "1992-06-09"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "898547-4905",
+      "data_utworzenia": "2003-05-23",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Dunn, Torres and Sanchez",
+        "nip": "421-968-01-65",
+        "adres": {
+          "ulica": "43735 Martinez Hills Apt. 207",
+          "miasto": "New Marc",
+          "kod_pocztowy": "89830",
+          "kraj": "Kyrgyz Republic"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "South Rachelhaven",
+          "kod_UNLOCODE": "KRJEJ"
+        },
+        "port_docelowy": {
+          "nazwa": "Jenkinsfurt",
+          "kod_UNLOCODE": "STBOJ"
+        },
+        "terminy": {
+          "załadunek": "1988-10-19",
+          "wyjście_statku": "1999-08-25",
+          "przewidywane_dostarczenie": "2017-02-18"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "962954-2614",
+      "data_utworzenia": "1997-04-30",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Macias, Paul and Mooney",
+        "nip": "346-893-59-50",
+        "adres": {
+          "ulica": "10731 Odom Route Apt. 676",
+          "miasto": "Hannafort",
+          "kod_pocztowy": "74762",
+          "kraj": "Italy"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Aliville",
+          "kod_UNLOCODE": "PHOQU"
+        },
+        "port_docelowy": {
+          "nazwa": "West Veronica",
+          "kod_UNLOCODE": "GDTGJ"
+        },
+        "terminy": {
+          "załadunek": "1986-03-19",
+          "wyjście_statku": "2019-03-05",
+          "przewidywane_dostarczenie": "1995-07-11"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "375471-1680",
+      "data_utworzenia": "2021-01-12",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Martinez-Hampton",
+        "nip": "203-464-58-20",
+        "adres": {
+          "ulica": "5006 Sharon Prairie Apt. 483",
+          "miasto": "Harrisbury",
+          "kod_pocztowy": "23675",
+          "kraj": "Niue"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Rangelburgh",
+          "kod_UNLOCODE": "WSKPU"
+        },
+        "port_docelowy": {
+          "nazwa": "Hernandezstad",
+          "kod_UNLOCODE": "DKTQZ"
+        },
+        "terminy": {
+          "załadunek": "2006-08-25",
+          "wyjście_statku": "1989-08-21",
+          "przewidywane_dostarczenie": "2008-03-04"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "295054-9030",
+      "data_utworzenia": "1972-05-03",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Myers and Sons",
+        "nip": "120-877-95-77",
+        "adres": {
+          "ulica": "64657 Smith Field Suite 755",
+          "miasto": "Heatherbury",
+          "kod_pocztowy": "36562",
+          "kraj": "Guyana"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "New Edwardland",
+          "kod_UNLOCODE": "TRGID"
+        },
+        "port_docelowy": {
+          "nazwa": "Lake Adamchester",
+          "kod_UNLOCODE": "MAKXI"
+        },
+        "terminy": {
+          "załadunek": "1971-11-30",
+          "wyjście_statku": "2002-02-22",
+          "przewidywane_dostarczenie": "1971-01-13"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "630427-6810",
+      "data_utworzenia": "1987-09-13",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Erickson, Fisher and Obrien",
+        "nip": "470-988-09-65",
+        "adres": {
+          "ulica": "747 Brown Springs",
+          "miasto": "New Julieton",
+          "kod_pocztowy": "83220",
+          "kraj": "Uruguay"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "North Mariaport",
+          "kod_UNLOCODE": "TGFQK"
+        },
+        "port_docelowy": {
+          "nazwa": "North Tricia",
+          "kod_UNLOCODE": "NLFPR"
+        },
+        "terminy": {
+          "załadunek": "1991-09-05",
+          "wyjście_statku": "1978-08-08",
+          "przewidywane_dostarczenie": "1978-01-04"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "779226-7945",
+      "data_utworzenia": "1993-03-14",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Gordon-Hill",
+        "nip": "381-027-27-87",
+        "adres": {
+          "ulica": "9477 Edwards Mall",
+          "miasto": "Parkerberg",
+          "kod_pocztowy": "79182",
+          "kraj": "United States Minor Outlying Islands"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Johnsonhaven",
+          "kod_UNLOCODE": "TWRQQ"
+        },
+        "port_docelowy": {
+          "nazwa": "East Lisa",
+          "kod_UNLOCODE": "ZMBRV"
+        },
+        "terminy": {
+          "załadunek": "2002-08-19",
+          "wyjście_statku": "1971-06-16",
+          "przewidywane_dostarczenie": "1988-11-16"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "439663-9595",
+      "data_utworzenia": "2020-01-31",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Scott-Velez",
+        "nip": "182-434-84-89",
+        "adres": {
+          "ulica": "7734 John Ranch Apt. 729",
+          "miasto": "Fergusonburgh",
+          "kod_pocztowy": "36403",
+          "kraj": "Estonia"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Danielfort",
+          "kod_UNLOCODE": "ROBYW"
+        },
+        "port_docelowy": {
+          "nazwa": "South Dominiquetown",
+          "kod_UNLOCODE": "LVWYN"
+        },
+        "terminy": {
+          "załadunek": "1996-07-19",
+          "wyjście_statku": "2012-12-09",
+          "przewidywane_dostarczenie": "2005-12-04"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "957643-4374",
+      "data_utworzenia": "2012-05-27",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Benson-Howell",
+        "nip": "379-665-54-00",
+        "adres": {
+          "ulica": "4645 Charles Extension Suite 904",
+          "miasto": "Port Brandonberg",
+          "kod_pocztowy": "52260",
+          "kraj": "Uganda"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Port Stephaniemouth",
+          "kod_UNLOCODE": "UZHHO"
+        },
+        "port_docelowy": {
+          "nazwa": "Ortizstad",
+          "kod_UNLOCODE": "PEJOS"
+        },
+        "terminy": {
+          "załadunek": "2012-10-08",
+          "wyjście_statku": "1977-03-20",
+          "przewidywane_dostarczenie": "1995-10-28"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "461540-9567",
+      "data_utworzenia": "1975-12-08",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Chang, Marks and Hamilton",
+        "nip": "543-579-10-21",
+        "adres": {
+          "ulica": "1393 Christopher Parkways Apt. 711",
+          "miasto": "New Logan",
+          "kod_pocztowy": "71883",
+          "kraj": "Indonesia"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Richardland",
+          "kod_UNLOCODE": "HURKL"
+        },
+        "port_docelowy": {
+          "nazwa": "Matthewside",
+          "kod_UNLOCODE": "SYMNW"
+        },
+        "terminy": {
+          "załadunek": "2021-04-18",
+          "wyjście_statku": "1975-07-18",
+          "przewidywane_dostarczenie": "1971-10-24"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "146381-2847",
+      "data_utworzenia": "2006-02-10",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Reyes-Swanson",
+        "nip": "789-689-33-96",
+        "adres": {
+          "ulica": "94840 Dominique Spur Apt. 264",
+          "miasto": "Pamton",
+          "kod_pocztowy": "03567",
+          "kraj": "New Caledonia"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "North Roberttown",
+          "kod_UNLOCODE": "BNUQO"
+        },
+        "port_docelowy": {
+          "nazwa": "Amyfurt",
+          "kod_UNLOCODE": "WSQOZ"
+        },
+        "terminy": {
+          "załadunek": "1987-03-01",
+          "wyjście_statku": "2004-12-05",
+          "przewidywane_dostarczenie": "1989-01-25"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "634802-3454",
+      "data_utworzenia": "1982-06-24",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Lopez-Austin",
+        "nip": "986-180-01-32",
+        "adres": {
+          "ulica": "0399 Simpson Lake Suite 868",
+          "miasto": "Josestad",
+          "kod_pocztowy": "25079",
+          "kraj": "Ethiopia"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "New Larrystad",
+          "kod_UNLOCODE": "GYEGS"
+        },
+        "port_docelowy": {
+          "nazwa": "East Kurt",
+          "kod_UNLOCODE": "UYAHV"
+        },
+        "terminy": {
+          "załadunek": "2021-09-22",
+          "wyjście_statku": "1984-07-09",
+          "przewidywane_dostarczenie": "1981-02-21"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "410036-3823",
+      "data_utworzenia": "2010-06-30",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Stevens Group",
+        "nip": "292-870-79-13",
+        "adres": {
+          "ulica": "19796 Lopez Extensions Suite 843",
+          "miasto": "Cooktown",
+          "kod_pocztowy": "17437",
+          "kraj": "Trinidad and Tobago"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Jessicaside",
+          "kod_UNLOCODE": "SOVBC"
+        },
+        "port_docelowy": {
+          "nazwa": "North Williamville",
+          "kod_UNLOCODE": "HUEQJ"
+        },
+        "terminy": {
+          "załadunek": "2014-11-27",
+          "wyjście_statku": "2021-02-20",
+          "przewidywane_dostarczenie": "1995-11-21"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "928176-5905",
+      "data_utworzenia": "1987-10-15",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Garcia Ltd",
+        "nip": "391-601-61-98",
+        "adres": {
+          "ulica": "702 Michael Common Suite 069",
+          "miasto": "Port Samanthaside",
+          "kod_pocztowy": "64373",
+          "kraj": "Guinea-Bissau"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "North Martin",
+          "kod_UNLOCODE": "CYDSR"
+        },
+        "port_docelowy": {
+          "nazwa": "Robertsburgh",
+          "kod_UNLOCODE": "LVTTL"
+        },
+        "terminy": {
+          "załadunek": "1983-11-20",
+          "wyjście_statku": "1986-03-06",
+          "przewidywane_dostarczenie": "2004-06-13"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "351371-5833",
+      "data_utworzenia": "1974-01-31",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Mckinney, Padilla and Thomas",
+        "nip": "527-454-60-77",
+        "adres": {
+          "ulica": "5968 Clark Run",
+          "miasto": "East Tina",
+          "kod_pocztowy": "47513",
+          "kraj": "Sri Lanka"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "West Jesusborough",
+          "kod_UNLOCODE": "NZHTW"
+        },
+        "port_docelowy": {
+          "nazwa": "Kellyland",
+          "kod_UNLOCODE": "BSIOD"
+        },
+        "terminy": {
+          "załadunek": "1986-04-01",
+          "wyjście_statku": "1972-08-08",
+          "przewidywane_dostarczenie": "1977-04-19"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "113096-4931",
+      "data_utworzenia": "2010-05-16",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Greene, Cunningham and Martinez",
+        "nip": "115-203-46-57",
+        "adres": {
+          "ulica": "49349 Alejandra Ferry Apt. 054",
+          "miasto": "Brandybury",
+          "kod_pocztowy": "64934",
+          "kraj": "French Polynesia"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Dannyshire",
+          "kod_UNLOCODE": "SBTTV"
+        },
+        "port_docelowy": {
+          "nazwa": "North Amyberg",
+          "kod_UNLOCODE": "TVSKJ"
+        },
+        "terminy": {
+          "załadunek": "1989-07-12",
+          "wyjście_statku": "2015-11-20",
+          "przewidywane_dostarczenie": "1978-12-18"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "536527-8312",
+      "data_utworzenia": "1996-11-07",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Lewis, Jackson and Terry",
+        "nip": "743-937-60-09",
+        "adres": {
+          "ulica": "313 Chambers Center Suite 113",
+          "miasto": "Katelynside",
+          "kod_pocztowy": "78754",
+          "kraj": "Egypt"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "North Patrick",
+          "kod_UNLOCODE": "NLUJR"
+        },
+        "port_docelowy": {
+          "nazwa": "New Grace",
+          "kod_UNLOCODE": "MDPOW"
+        },
+        "terminy": {
+          "załadunek": "2001-12-27",
+          "wyjście_statku": "2008-03-30",
+          "przewidywane_dostarczenie": "2012-03-21"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "269634-9946",
+      "data_utworzenia": "2024-07-02",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Lawrence Inc",
+        "nip": "216-179-35-05",
+        "adres": {
+          "ulica": "53274 Collins Ramp",
+          "miasto": "Thomasmouth",
+          "kod_pocztowy": "86238",
+          "kraj": "Mexico"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Donaldhaven",
+          "kod_UNLOCODE": "NGVPH"
+        },
+        "port_docelowy": {
+          "nazwa": "West Jennifer",
+          "kod_UNLOCODE": "ETTFV"
+        },
+        "terminy": {
+          "załadunek": "1978-06-12",
+          "wyjście_statku": "2023-12-01",
+          "przewidywane_dostarczenie": "2009-08-04"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "513194-8878",
+      "data_utworzenia": "2006-01-17",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Whitaker-Phelps",
+        "nip": "046-265-96-85",
+        "adres": {
+          "ulica": "95280 Jackson Alley",
+          "miasto": "Johnstad",
+          "kod_pocztowy": "37090",
+          "kraj": "Iran"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Bryantmouth",
+          "kod_UNLOCODE": "BJPUJ"
+        },
+        "port_docelowy": {
+          "nazwa": "Port Lauraview",
+          "kod_UNLOCODE": "CDUJV"
+        },
+        "terminy": {
+          "załadunek": "1997-10-12",
+          "wyjście_statku": "2011-06-18",
+          "przewidywane_dostarczenie": "1991-05-18"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "292754-6522",
+      "data_utworzenia": "1999-01-15",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Barnes-Shepherd",
+        "nip": "640-985-58-64",
+        "adres": {
+          "ulica": "5046 Nguyen Mount",
+          "miasto": "South Monicaberg",
+          "kod_pocztowy": "28035",
+          "kraj": "Reunion"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "New Kristin",
+          "kod_UNLOCODE": "BIVOZ"
+        },
+        "port_docelowy": {
+          "nazwa": "West Paul",
+          "kod_UNLOCODE": "USQQE"
+        },
+        "terminy": {
+          "załadunek": "2000-12-19",
+          "wyjście_statku": "2011-09-25",
+          "przewidywane_dostarczenie": "1987-04-19"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "574833-7329",
+      "data_utworzenia": "2007-05-27",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Davis Inc",
+        "nip": "105-359-30-21",
+        "adres": {
+          "ulica": "760 Shannon Trace",
+          "miasto": "Alyssabury",
+          "kod_pocztowy": "15818",
+          "kraj": "Bahamas"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Port Penny",
+          "kod_UNLOCODE": "GTDMZ"
+        },
+        "port_docelowy": {
+          "nazwa": "Lake Ryanfort",
+          "kod_UNLOCODE": "DZTIT"
+        },
+        "terminy": {
+          "załadunek": "1994-12-09",
+          "wyjście_statku": "1995-06-05",
+          "przewidywane_dostarczenie": "1972-01-31"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "739958-5819",
+      "data_utworzenia": "1999-08-15",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Diaz LLC",
+        "nip": "880-115-90-33",
+        "adres": {
+          "ulica": "19650 David Walk Suite 405",
+          "miasto": "Bakerland",
+          "kod_pocztowy": "39477",
+          "kraj": "Vanuatu"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Port Tina",
+          "kod_UNLOCODE": "TWHFB"
+        },
+        "port_docelowy": {
+          "nazwa": "Loganside",
+          "kod_UNLOCODE": "KNUGS"
+        },
+        "terminy": {
+          "załadunek": "2007-06-16",
+          "wyjście_statku": "2007-04-04",
+          "przewidywane_dostarczenie": "1991-07-20"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "766841-6934",
+      "data_utworzenia": "2016-05-14",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Jones-Matthews",
+        "nip": "886-345-33-99",
+        "adres": {
+          "ulica": "9777 Samuel Court Apt. 196",
+          "miasto": "Shawstad",
+          "kod_pocztowy": "26655",
+          "kraj": "Netherlands"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "East Michaelburgh",
+          "kod_UNLOCODE": "ESWJV"
+        },
+        "port_docelowy": {
+          "nazwa": "Clarkton",
+          "kod_UNLOCODE": "VEBAJ"
+        },
+        "terminy": {
+          "załadunek": "2008-12-05",
+          "wyjście_statku": "1997-10-19",
+          "przewidywane_dostarczenie": "1998-06-12"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "528362-8448",
+      "data_utworzenia": "1972-11-19",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Fletcher, Tucker and Lewis",
+        "nip": "318-429-56-19",
+        "adres": {
+          "ulica": "442 David Hills",
+          "miasto": "Christianshire",
+          "kod_pocztowy": "88079",
+          "kraj": "Ukraine"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "East Derek",
+          "kod_UNLOCODE": "PGRHB"
+        },
+        "port_docelowy": {
+          "nazwa": "Davidfort",
+          "kod_UNLOCODE": "AUMCS"
+        },
+        "terminy": {
+          "załadunek": "2020-09-25",
+          "wyjście_statku": "1995-03-14",
+          "przewidywane_dostarczenie": "2000-09-30"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "674397-9566",
+      "data_utworzenia": "2020-10-07",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Sanchez-Clark",
+        "nip": "152-937-95-93",
+        "adres": {
+          "ulica": "9861 Sandoval Flats",
+          "miasto": "East Mitchell",
+          "kod_pocztowy": "21928",
+          "kraj": "Korea"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Ashleyville",
+          "kod_UNLOCODE": "BEEZP"
+        },
+        "port_docelowy": {
+          "nazwa": "Blakeborough",
+          "kod_UNLOCODE": "NZKYV"
+        },
+        "terminy": {
+          "załadunek": "1981-12-11",
+          "wyjście_statku": "1978-07-05",
+          "przewidywane_dostarczenie": "1978-02-11"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "400488-3513",
+      "data_utworzenia": "2019-10-11",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Leonard-Gardner",
+        "nip": "316-245-22-07",
+        "adres": {
+          "ulica": "14773 Alexander Orchard Suite 582",
+          "miasto": "South Thomasstad",
+          "kod_pocztowy": "25684",
+          "kraj": "Sudan"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Danastad",
+          "kod_UNLOCODE": "GERME"
+        },
+        "port_docelowy": {
+          "nazwa": "Powellfurt",
+          "kod_UNLOCODE": "TGWYU"
+        },
+        "terminy": {
+          "załadunek": "1998-03-05",
+          "wyjście_statku": "1975-01-13",
+          "przewidywane_dostarczenie": "2022-01-08"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "838893-3433",
+      "data_utworzenia": "1999-06-19",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Armstrong, Alexander and Stone",
+        "nip": "988-567-00-80",
+        "adres": {
+          "ulica": "819 Wendy Heights",
+          "miasto": "Lake Mario",
+          "kod_pocztowy": "18634",
+          "kraj": "Bolivia"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Stephenport",
+          "kod_UNLOCODE": "ZMGFO"
+        },
+        "port_docelowy": {
+          "nazwa": "North Adam",
+          "kod_UNLOCODE": "LVHSC"
+        },
+        "terminy": {
+          "załadunek": "2022-05-27",
+          "wyjście_statku": "2012-07-05",
+          "przewidywane_dostarczenie": "1979-04-22"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "904169-4321",
+      "data_utworzenia": "2000-02-27",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Calderon-Aguilar",
+        "nip": "208-012-16-21",
+        "adres": {
+          "ulica": "14488 Hall Tunnel",
+          "miasto": "North Lisaburgh",
+          "kod_pocztowy": "73239",
+          "kraj": "Monaco"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Howardfort",
+          "kod_UNLOCODE": "KEZXG"
+        },
+        "port_docelowy": {
+          "nazwa": "Elizabethshire",
+          "kod_UNLOCODE": "VNFRF"
+        },
+        "terminy": {
+          "załadunek": "2018-10-02",
+          "wyjście_statku": "1985-09-20",
+          "przewidywane_dostarczenie": "1977-12-26"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "549957-1241",
+      "data_utworzenia": "2019-11-22",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Lane, Hill and Wagner",
+        "nip": "485-613-03-96",
+        "adres": {
+          "ulica": "595 Evan Greens Apt. 190",
+          "miasto": "Port Shannonmouth",
+          "kod_pocztowy": "61932",
+          "kraj": "Fiji"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Port Joshua",
+          "kod_UNLOCODE": "KEVBQ"
+        },
+        "port_docelowy": {
+          "nazwa": "North Peter",
+          "kod_UNLOCODE": "TWANY"
+        },
+        "terminy": {
+          "załadunek": "1978-11-08",
+          "wyjście_statku": "1981-06-14",
+          "przewidywane_dostarczenie": "1993-03-10"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "996578-7864",
+      "data_utworzenia": "1993-12-12",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Garcia-Mayer",
+        "nip": "142-751-97-98",
+        "adres": {
+          "ulica": "491 John Square",
+          "miasto": "West Crystal",
+          "kod_pocztowy": "21058",
+          "kraj": "Mali"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Williamsstad",
+          "kod_UNLOCODE": "IQJYX"
+        },
+        "port_docelowy": {
+          "nazwa": "Angelamouth",
+          "kod_UNLOCODE": "ROZPI"
+        },
+        "terminy": {
+          "załadunek": "1998-06-20",
+          "wyjście_statku": "2003-06-26",
+          "przewidywane_dostarczenie": "1979-08-31"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "536480-1946",
+      "data_utworzenia": "1979-02-04",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Clark, Mckee and Woods",
+        "nip": "934-482-96-06",
+        "adres": {
+          "ulica": "209 Jorge Walks Apt. 000",
+          "miasto": "Port Jason",
+          "kod_pocztowy": "87165",
+          "kraj": "Eritrea"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Jackchester",
+          "kod_UNLOCODE": "IEPHP"
+        },
+        "port_docelowy": {
+          "nazwa": "Valerieberg",
+          "kod_UNLOCODE": "DKZMG"
+        },
+        "terminy": {
+          "załadunek": "1993-12-08",
+          "wyjście_statku": "2014-03-27",
+          "przewidywane_dostarczenie": "1988-12-17"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "857488-5193",
+      "data_utworzenia": "2013-09-21",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Williams-Williams",
+        "nip": "013-216-85-49",
+        "adres": {
+          "ulica": "1481 Stephenson Greens Suite 795",
+          "miasto": "West Diana",
+          "kod_pocztowy": "57704",
+          "kraj": "Indonesia"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "East Danfurt",
+          "kod_UNLOCODE": "TOCHG"
+        },
+        "port_docelowy": {
+          "nazwa": "Harrisland",
+          "kod_UNLOCODE": "SDFSI"
+        },
+        "terminy": {
+          "załadunek": "1990-08-04",
+          "wyjście_statku": "1993-02-08",
+          "przewidywane_dostarczenie": "2014-02-23"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "955868-2649",
+      "data_utworzenia": "1999-05-29",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Phillips PLC",
+        "nip": "868-392-19-64",
+        "adres": {
+          "ulica": "62591 Williams Forest",
+          "miasto": "Lake Karen",
+          "kod_pocztowy": "77022",
+          "kraj": "Tonga"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Allisonberg",
+          "kod_UNLOCODE": "TWUBS"
+        },
+        "port_docelowy": {
+          "nazwa": "South Rebecca",
+          "kod_UNLOCODE": "SKIDX"
+        },
+        "terminy": {
+          "załadunek": "2018-08-13",
+          "wyjście_statku": "1971-08-17",
+          "przewidywane_dostarczenie": "1990-02-06"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "993375-6463",
+      "data_utworzenia": "2005-10-14",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Golden, Ryan and Ford",
+        "nip": "140-903-93-97",
+        "adres": {
+          "ulica": "235 Taylor Alley",
+          "miasto": "New Steven",
+          "kod_pocztowy": "23331",
+          "kraj": "Lebanon"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Amandabury",
+          "kod_UNLOCODE": "AMAVH"
+        },
+        "port_docelowy": {
+          "nazwa": "Arthurton",
+          "kod_UNLOCODE": "BOOBD"
+        },
+        "terminy": {
+          "załadunek": "2019-07-24",
+          "wyjście_statku": "1979-08-22",
+          "przewidywane_dostarczenie": "1993-06-11"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "897946-8692",
+      "data_utworzenia": "1976-05-20",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Gray, Garcia and Sellers",
+        "nip": "002-998-72-50",
+        "adres": {
+          "ulica": "31053 Robert Street",
+          "miasto": "Romeroshire",
+          "kod_pocztowy": "68630",
+          "kraj": "Guyana"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Thompsonton",
+          "kod_UNLOCODE": "SYOIG"
+        },
+        "port_docelowy": {
+          "nazwa": "Durhamshire",
+          "kod_UNLOCODE": "TOELJ"
+        },
+        "terminy": {
+          "załadunek": "2001-03-10",
+          "wyjście_statku": "1989-08-05",
+          "przewidywane_dostarczenie": "1998-12-31"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "169579-1109",
+      "data_utworzenia": "2023-04-03",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Hansen, Mitchell and Miller",
+        "nip": "215-954-13-54",
+        "adres": {
+          "ulica": "355 Reyes Meadow Apt. 615",
+          "miasto": "Port Gary",
+          "kod_pocztowy": "88514",
+          "kraj": "Wallis and Futuna"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Brianburgh",
+          "kod_UNLOCODE": "SRHSD"
+        },
+        "port_docelowy": {
+          "nazwa": "Sophiastad",
+          "kod_UNLOCODE": "DJQVQ"
+        },
+        "terminy": {
+          "załadunek": "1971-01-20",
+          "wyjście_statku": "2022-07-20",
+          "przewidywane_dostarczenie": "2018-06-03"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "580260-9303",
+      "data_utworzenia": "1978-09-21",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Michael, Ramirez and Ramirez",
+        "nip": "655-236-07-86",
+        "adres": {
+          "ulica": "5422 Cruz Gardens",
+          "miasto": "Frankton",
+          "kod_pocztowy": "56827",
+          "kraj": "French Polynesia"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Samanthamouth",
+          "kod_UNLOCODE": "GMAVA"
+        },
+        "port_docelowy": {
+          "nazwa": "East Andrea",
+          "kod_UNLOCODE": "BHHDZ"
+        },
+        "terminy": {
+          "załadunek": "2007-12-14",
+          "wyjście_statku": "1983-11-18",
+          "przewidywane_dostarczenie": "2020-03-19"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "150485-6176",
+      "data_utworzenia": "1998-08-27",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Gutierrez LLC",
+        "nip": "016-359-16-07",
+        "adres": {
+          "ulica": "57405 Nicole Square",
+          "miasto": "West Jesse",
+          "kod_pocztowy": "78873",
+          "kraj": "Korea"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "East Karenshire",
+          "kod_UNLOCODE": "LIDIH"
+        },
+        "port_docelowy": {
+          "nazwa": "Kristenside",
+          "kod_UNLOCODE": "LKYWW"
+        },
+        "terminy": {
+          "załadunek": "2017-04-23",
+          "wyjście_statku": "1977-07-17",
+          "przewidywane_dostarczenie": "1986-11-16"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "960373-6808",
+      "data_utworzenia": "1979-05-17",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Phelps-Stanton",
+        "nip": "872-347-36-42",
+        "adres": {
+          "ulica": "233 Joshua Park",
+          "miasto": "Kathleentown",
+          "kod_pocztowy": "97783",
+          "kraj": "Chile"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "New Maryborough",
+          "kod_UNLOCODE": "UGPAZ"
+        },
+        "port_docelowy": {
+          "nazwa": "Amberview",
+          "kod_UNLOCODE": "HTNOV"
+        },
+        "terminy": {
+          "załadunek": "2024-11-19",
+          "wyjście_statku": "1973-06-07",
+          "przewidywane_dostarczenie": "1999-03-22"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "531657-2327",
+      "data_utworzenia": "2002-02-18",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Elliott-Wells",
+        "nip": "232-562-87-99",
+        "adres": {
+          "ulica": "02724 Jeremy Wall",
+          "miasto": "Browntown",
+          "kod_pocztowy": "83700",
+          "kraj": "Cambodia"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "South Robert",
+          "kod_UNLOCODE": "VAHFH"
+        },
+        "port_docelowy": {
+          "nazwa": "South Jeremyfort",
+          "kod_UNLOCODE": "TLIMO"
+        },
+        "terminy": {
+          "załadunek": "2015-11-19",
+          "wyjście_statku": "1988-01-15",
+          "przewidywane_dostarczenie": "2013-12-17"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "716625-8882",
+      "data_utworzenia": "1991-05-17",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Rodriguez Group",
+        "nip": "066-044-78-26",
+        "adres": {
+          "ulica": "028 Madison Knolls",
+          "miasto": "Brittneyport",
+          "kod_pocztowy": "07910",
+          "kraj": "Malaysia"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Harmonborough",
+          "kod_UNLOCODE": "STWPX"
+        },
+        "port_docelowy": {
+          "nazwa": "Ashleyview",
+          "kod_UNLOCODE": "KEMCZ"
+        },
+        "terminy": {
+          "załadunek": "1970-06-14",
+          "wyjście_statku": "2011-08-02",
+          "przewidywane_dostarczenie": "1977-02-09"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "151630-3568",
+      "data_utworzenia": "2017-11-06",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Proctor Inc",
+        "nip": "849-650-59-18",
+        "adres": {
+          "ulica": "13702 Darrell Course",
+          "miasto": "Juanport",
+          "kod_pocztowy": "93072",
+          "kraj": "Vanuatu"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "East Reginaville",
+          "kod_UNLOCODE": "SEOKV"
+        },
+        "port_docelowy": {
+          "nazwa": "Port Shawnfort",
+          "kod_UNLOCODE": "BFFPY"
+        },
+        "terminy": {
+          "załadunek": "1984-10-07",
+          "wyjście_statku": "2012-06-24",
+          "przewidywane_dostarczenie": "2001-08-14"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "719386-5404",
+      "data_utworzenia": "1995-12-15",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Foster-Gross",
+        "nip": "585-041-13-62",
+        "adres": {
+          "ulica": "753 Larsen Dale Apt. 818",
+          "miasto": "South Johnfurt",
+          "kod_pocztowy": "44632",
+          "kraj": "Ethiopia"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "South Chelseaberg",
+          "kod_UNLOCODE": "MGDOC"
+        },
+        "port_docelowy": {
+          "nazwa": "Ramosbury",
+          "kod_UNLOCODE": "ATYTZ"
+        },
+        "terminy": {
+          "załadunek": "2019-10-09",
+          "wyjście_statku": "2014-04-17",
+          "przewidywane_dostarczenie": "1990-04-11"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "381107-1874",
+      "data_utworzenia": "2004-05-17",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Coleman Ltd",
+        "nip": "356-034-77-10",
+        "adres": {
+          "ulica": "56513 Oscar Burg",
+          "miasto": "Ramseyside",
+          "kod_pocztowy": "87113",
+          "kraj": "Vanuatu"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Ballburgh",
+          "kod_UNLOCODE": "BAYYG"
+        },
+        "port_docelowy": {
+          "nazwa": "Popeborough",
+          "kod_UNLOCODE": "PTTZQ"
+        },
+        "terminy": {
+          "załadunek": "1987-02-04",
+          "wyjście_statku": "1994-08-30",
+          "przewidywane_dostarczenie": "1998-11-09"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "522075-1823",
+      "data_utworzenia": "1986-08-15",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Thompson-Wallace",
+        "nip": "104-338-41-03",
+        "adres": {
+          "ulica": "507 Norton Mall Suite 412",
+          "miasto": "South Carrie",
+          "kod_pocztowy": "12581",
+          "kraj": "American Samoa"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Jacksonbury",
+          "kod_UNLOCODE": "NINND"
+        },
+        "port_docelowy": {
+          "nazwa": "Derekfurt",
+          "kod_UNLOCODE": "WSEVP"
+        },
+        "terminy": {
+          "załadunek": "2019-04-08",
+          "wyjście_statku": "1974-01-24",
+          "przewidywane_dostarczenie": "2006-03-24"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "259335-3421",
+      "data_utworzenia": "2012-12-23",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Summers, Keith and Mccall",
+        "nip": "074-053-61-88",
+        "adres": {
+          "ulica": "92625 Griffin Skyway Suite 547",
+          "miasto": "New Alexanderton",
+          "kod_pocztowy": "85482",
+          "kraj": "Guatemala"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Jenniferland",
+          "kod_UNLOCODE": "KGLDN"
+        },
+        "port_docelowy": {
+          "nazwa": "Starkport",
+          "kod_UNLOCODE": "BTOLZ"
+        },
+        "terminy": {
+          "załadunek": "2018-02-04",
+          "wyjście_statku": "1981-06-25",
+          "przewidywane_dostarczenie": "1998-06-01"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "170058-4741",
+      "data_utworzenia": "1991-02-11",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Mcpherson LLC",
+        "nip": "259-146-58-71",
+        "adres": {
+          "ulica": "13645 Patricia Union",
+          "miasto": "East Jesseland",
+          "kod_pocztowy": "46297",
+          "kraj": "Algeria"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Johnstonburgh",
+          "kod_UNLOCODE": "GEXZL"
+        },
+        "port_docelowy": {
+          "nazwa": "Destinybury",
+          "kod_UNLOCODE": "PYAKY"
+        },
+        "terminy": {
+          "załadunek": "1999-02-27",
+          "wyjście_statku": "1987-04-24",
+          "przewidywane_dostarczenie": "1990-04-07"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "207395-4159",
+      "data_utworzenia": "2020-10-14",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Cooley Ltd",
+        "nip": "869-408-71-86",
+        "adres": {
+          "ulica": "608 Rebecca Gateway Suite 962",
+          "miasto": "West Jennifer",
+          "kod_pocztowy": "69224",
+          "kraj": "Georgia"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Jerryburgh",
+          "kod_UNLOCODE": "KIRJU"
+        },
+        "port_docelowy": {
+          "nazwa": "Lake Jasonshire",
+          "kod_UNLOCODE": "ERIGA"
+        },
+        "terminy": {
+          "załadunek": "1972-06-06",
+          "wyjście_statku": "1987-12-24",
+          "przewidywane_dostarczenie": "1983-02-22"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "988807-2433",
+      "data_utworzenia": "1992-05-14",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Gentry LLC",
+        "nip": "290-990-33-52",
+        "adres": {
+          "ulica": "15966 Alexis Shore Apt. 318",
+          "miasto": "Donaldfurt",
+          "kod_pocztowy": "48732",
+          "kraj": "British Virgin Islands"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Leonardberg",
+          "kod_UNLOCODE": "MEOXG"
+        },
+        "port_docelowy": {
+          "nazwa": "South Jamesberg",
+          "kod_UNLOCODE": "CRGKT"
+        },
+        "terminy": {
+          "załadunek": "2016-06-21",
+          "wyjście_statku": "1994-11-18",
+          "przewidywane_dostarczenie": "1977-07-30"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "473861-2229",
+      "data_utworzenia": "1987-04-23",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Owens-West",
+        "nip": "149-493-34-52",
+        "adres": {
+          "ulica": "0438 Newton Inlet",
+          "miasto": "Clementschester",
+          "kod_pocztowy": "81414",
+          "kraj": "Saint Pierre and Miquelon"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Lake Brooke",
+          "kod_UNLOCODE": "VEEKC"
+        },
+        "port_docelowy": {
+          "nazwa": "Michaelmouth",
+          "kod_UNLOCODE": "MRDHW"
+        },
+        "terminy": {
+          "załadunek": "2004-11-25",
+          "wyjście_statku": "1991-11-19",
+          "przewidywane_dostarczenie": "1988-10-19"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "297323-3096",
+      "data_utworzenia": "1971-09-17",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Smith-Jones",
+        "nip": "492-223-87-05",
+        "adres": {
+          "ulica": "4667 Roberts Ramp Apt. 520",
+          "miasto": "Johnston",
+          "kod_pocztowy": "80057",
+          "kraj": "Bermuda"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "South Donaldshire",
+          "kod_UNLOCODE": "ROONI"
+        },
+        "port_docelowy": {
+          "nazwa": "Rebeccastad",
+          "kod_UNLOCODE": "TDGFT"
+        },
+        "terminy": {
+          "załadunek": "2019-03-28",
+          "wyjście_statku": "1987-11-28",
+          "przewidywane_dostarczenie": "2009-03-18"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "602835-9073",
+      "data_utworzenia": "1990-09-12",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Wood-Owens",
+        "nip": "361-808-72-24",
+        "adres": {
+          "ulica": "5230 Cannon Inlet Suite 255",
+          "miasto": "Obrienton",
+          "kod_pocztowy": "61297",
+          "kraj": "Algeria"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "New Royfort",
+          "kod_UNLOCODE": "GYTLM"
+        },
+        "port_docelowy": {
+          "nazwa": "Port Kimberly",
+          "kod_UNLOCODE": "CDGSR"
+        },
+        "terminy": {
+          "załadunek": "2002-08-14",
+          "wyjście_statku": "2000-05-08",
+          "przewidywane_dostarczenie": "2002-12-11"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "181243-6077",
+      "data_utworzenia": "1972-07-05",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Washington Inc",
+        "nip": "780-404-68-24",
+        "adres": {
+          "ulica": "8303 Jones Camp Apt. 906",
+          "miasto": "Port Maryhaven",
+          "kod_pocztowy": "43736",
+          "kraj": "Morocco"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "South Carlaborough",
+          "kod_UNLOCODE": "GHQCJ"
+        },
+        "port_docelowy": {
+          "nazwa": "West Alexandra",
+          "kod_UNLOCODE": "GHFJT"
+        },
+        "terminy": {
+          "załadunek": "1999-01-29",
+          "wyjście_statku": "2015-10-26",
+          "przewidywane_dostarczenie": "2021-10-06"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "991415-6048",
+      "data_utworzenia": "1997-04-16",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Humphrey, Mcgee and Phillips",
+        "nip": "913-256-41-45",
+        "adres": {
+          "ulica": "2336 Mike Radial",
+          "miasto": "Byrdport",
+          "kod_pocztowy": "08856",
+          "kraj": "Japan"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "South Jonathanhaven",
+          "kod_UNLOCODE": "ISVNM"
+        },
+        "port_docelowy": {
+          "nazwa": "Longborough",
+          "kod_UNLOCODE": "ZAOGZ"
+        },
+        "terminy": {
+          "załadunek": "1984-11-22",
+          "wyjście_statku": "2018-02-28",
+          "przewidywane_dostarczenie": "2019-06-12"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "820185-7508",
+      "data_utworzenia": "2015-02-01",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Cobb-Cameron",
+        "nip": "403-722-78-54",
+        "adres": {
+          "ulica": "0938 Gregory Mountains",
+          "miasto": "Lake Ashley",
+          "kod_pocztowy": "24993",
+          "kraj": "Saint Vincent and the Grenadines"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Jacksonville",
+          "kod_UNLOCODE": "CMIOE"
+        },
+        "port_docelowy": {
+          "nazwa": "Kellerchester",
+          "kod_UNLOCODE": "LCEBI"
+        },
+        "terminy": {
+          "załadunek": "2012-10-31",
+          "wyjście_statku": "2019-02-13",
+          "przewidywane_dostarczenie": "2003-07-13"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "221401-7778",
+      "data_utworzenia": "1989-03-17",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Roberts-Cox",
+        "nip": "986-734-22-02",
+        "adres": {
+          "ulica": "49556 Jason Divide",
+          "miasto": "Antonioville",
+          "kod_pocztowy": "98234",
+          "kraj": "Puerto Rico"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Shepherdton",
+          "kod_UNLOCODE": "ZAIZD"
+        },
+        "port_docelowy": {
+          "nazwa": "New Joseph",
+          "kod_UNLOCODE": "ROYTH"
+        },
+        "terminy": {
+          "załadunek": "1989-08-12",
+          "wyjście_statku": "2023-11-11",
+          "przewidywane_dostarczenie": "2015-10-04"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "526584-9793",
+      "data_utworzenia": "2011-01-30",
+      "status": "Zrealizowane",
+      "klient": {
+        "nazwa": "Holmes Ltd",
+        "nip": "550-689-48-81",
+        "adres": {
+          "ulica": "928 Eaton Camp Suite 003",
+          "miasto": "East Karen",
+          "kod_pocztowy": "08406",
+          "kraj": "Portugal"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Cannonburgh",
+          "kod_UNLOCODE": "ATUGU"
+        },
+        "port_docelowy": {
+          "nazwa": "Sullivanshire",
+          "kod_UNLOCODE": "BGOAH"
+        },
+        "terminy": {
+          "załadunek": "2010-01-25",
+          "wyjście_statku": "2008-09-02",
+          "przewidywane_dostarczenie": "1975-07-14"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "254383-3283",
+      "data_utworzenia": "1990-04-07",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Gonzalez-Kelley",
+        "nip": "486-818-21-81",
+        "adres": {
+          "ulica": "540 Annette Knolls Suite 374",
+          "miasto": "Lake John",
+          "kod_pocztowy": "95420",
+          "kraj": "Switzerland"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Port Emilychester",
+          "kod_UNLOCODE": "LSBNX"
+        },
+        "port_docelowy": {
+          "nazwa": "Denisemouth",
+          "kod_UNLOCODE": "SCRPI"
+        },
+        "terminy": {
+          "załadunek": "1977-11-05",
+          "wyjście_statku": "1991-03-01",
+          "przewidywane_dostarczenie": "1991-10-14"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "735006-3632",
+      "data_utworzenia": "2006-06-23",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Norris and Sons",
+        "nip": "422-937-03-98",
+        "adres": {
+          "ulica": "94915 Sullivan Divide",
+          "miasto": "Rachelbury",
+          "kod_pocztowy": "61566",
+          "kraj": "Slovakia (Slovak Republic)"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Jeremyberg",
+          "kod_UNLOCODE": "CNIQW"
+        },
+        "port_docelowy": {
+          "nazwa": "Brownfurt",
+          "kod_UNLOCODE": "BAJBI"
+        },
+        "terminy": {
+          "załadunek": "2012-12-21",
+          "wyjście_statku": "2007-02-27",
+          "przewidywane_dostarczenie": "1984-03-12"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "712814-5857",
+      "data_utworzenia": "2003-02-01",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Flores, Soto and Parker",
+        "nip": "039-138-72-71",
+        "adres": {
+          "ulica": "59597 Jesse Court Apt. 155",
+          "miasto": "Smithland",
+          "kod_pocztowy": "63086",
+          "kraj": "Armenia"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "East Katherineside",
+          "kod_UNLOCODE": "NAOXR"
+        },
+        "port_docelowy": {
+          "nazwa": "Zacharyfort",
+          "kod_UNLOCODE": "MZTZQ"
+        },
+        "terminy": {
+          "załadunek": "1988-10-26",
+          "wyjście_statku": "1978-10-08",
+          "przewidywane_dostarczenie": "1971-10-18"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "480997-5588",
+      "data_utworzenia": "1988-09-23",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Harrison-Roberts",
+        "nip": "293-667-83-82",
+        "adres": {
+          "ulica": "4004 Susan Landing",
+          "miasto": "Atkinsland",
+          "kod_pocztowy": "42318",
+          "kraj": "Estonia"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "North Patriciabury",
+          "kod_UNLOCODE": "BTVYG"
+        },
+        "port_docelowy": {
+          "nazwa": "Walkerville",
+          "kod_UNLOCODE": "VAADN"
+        },
+        "terminy": {
+          "załadunek": "1985-02-22",
+          "wyjście_statku": "2012-08-09",
+          "przewidywane_dostarczenie": "2017-04-12"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "707793-5453",
+      "data_utworzenia": "2009-11-16",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Owen LLC",
+        "nip": "095-758-11-87",
+        "adres": {
+          "ulica": "125 Kimberly Square Apt. 677",
+          "miasto": "Hubbardberg",
+          "kod_pocztowy": "51425",
+          "kraj": "Samoa"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "East Johnshire",
+          "kod_UNLOCODE": "CMGLZ"
+        },
+        "port_docelowy": {
+          "nazwa": "East Kevin",
+          "kod_UNLOCODE": "ROTEO"
+        },
+        "terminy": {
+          "załadunek": "2017-08-02",
+          "wyjście_statku": "1994-01-11",
+          "przewidywane_dostarczenie": "1991-08-11"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "912157-7368",
+      "data_utworzenia": "2024-07-14",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Herrera Ltd",
+        "nip": "358-291-36-88",
+        "adres": {
+          "ulica": "20732 Nelson Lakes",
+          "miasto": "Briannachester",
+          "kod_pocztowy": "73956",
+          "kraj": "Montenegro"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Williamsstad",
+          "kod_UNLOCODE": "THASC"
+        },
+        "port_docelowy": {
+          "nazwa": "Jamesmouth",
+          "kod_UNLOCODE": "AZLCC"
+        },
+        "terminy": {
+          "załadunek": "2001-04-04",
+          "wyjście_statku": "2023-01-23",
+          "przewidywane_dostarczenie": "1977-05-31"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "310526-5216",
+      "data_utworzenia": "1978-08-12",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Warren, Weeks and Weiss",
+        "nip": "866-387-08-20",
+        "adres": {
+          "ulica": "72114 Morse Lights",
+          "miasto": "Andrewville",
+          "kod_pocztowy": "53514",
+          "kraj": "Russian Federation"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Lake Gregorymouth",
+          "kod_UNLOCODE": "YERHH"
+        },
+        "port_docelowy": {
+          "nazwa": "Susanbury",
+          "kod_UNLOCODE": "KPQRQ"
+        },
+        "terminy": {
+          "załadunek": "2009-09-17",
+          "wyjście_statku": "2015-09-21",
+          "przewidywane_dostarczenie": "2020-08-02"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "970456-7534",
+      "data_utworzenia": "2017-12-18",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Spence-Juarez",
+        "nip": "792-199-88-65",
+        "adres": {
+          "ulica": "097 Hart Drives Apt. 557",
+          "miasto": "Kristinamouth",
+          "kod_pocztowy": "40783",
+          "kraj": "Peru"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Wilsonshire",
+          "kod_UNLOCODE": "BZLAI"
+        },
+        "port_docelowy": {
+          "nazwa": "Bradymouth",
+          "kod_UNLOCODE": "AODHB"
+        },
+        "terminy": {
+          "załadunek": "2010-12-01",
+          "wyjście_statku": "1992-10-07",
+          "przewidywane_dostarczenie": "1995-04-01"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "567176-1157",
+      "data_utworzenia": "2003-08-11",
+      "status": "W trakcie",
+      "klient": {
+        "nazwa": "Brown Group",
+        "nip": "684-106-94-31",
+        "adres": {
+          "ulica": "44350 Phillips Ramp Suite 092",
+          "miasto": "Cameronshire",
+          "kod_pocztowy": "22822",
+          "kraj": "Palestinian Territory"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Christinastad",
+          "kod_UNLOCODE": "BOSKW"
+        },
+        "port_docelowy": {
+          "nazwa": "South Donaldbury",
+          "kod_UNLOCODE": "NAGIF"
+        },
+        "terminy": {
+          "załadunek": "1994-09-16",
+          "wyjście_statku": "2003-09-24",
+          "przewidywane_dostarczenie": "2010-12-14"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "950371-4696",
+      "data_utworzenia": "2015-09-26",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Luna and Sons",
+        "nip": "279-967-13-25",
+        "adres": {
+          "ulica": "20104 Reyes Tunnel Suite 331",
+          "miasto": "Tyronestad",
+          "kod_pocztowy": "79375",
+          "kraj": "Bahrain"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "West Steve",
+          "kod_UNLOCODE": "UGZAM"
+        },
+        "port_docelowy": {
+          "nazwa": "Dorseyton",
+          "kod_UNLOCODE": "KPAWH"
+        },
+        "terminy": {
+          "załadunek": "1987-11-07",
+          "wyjście_statku": "1977-10-27",
+          "przewidywane_dostarczenie": "1989-03-20"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "577160-8462",
+      "data_utworzenia": "1995-04-27",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Campbell LLC",
+        "nip": "873-950-31-79",
+        "adres": {
+          "ulica": "277 Jeremy Gardens Suite 213",
+          "miasto": "Johnsonshire",
+          "kod_pocztowy": "22270",
+          "kraj": "Angola"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Lake Tonyaberg",
+          "kod_UNLOCODE": "DJTCR"
+        },
+        "port_docelowy": {
+          "nazwa": "New Ericaport",
+          "kod_UNLOCODE": "DOKAP"
+        },
+        "terminy": {
+          "załadunek": "1983-05-07",
+          "wyjście_statku": "2016-04-07",
+          "przewidywane_dostarczenie": "1984-05-16"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "368573-4139",
+      "data_utworzenia": "2000-05-22",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Murray, Smith and Shepard",
+        "nip": "092-228-65-04",
+        "adres": {
+          "ulica": "3989 Hayes Rue Apt. 380",
+          "miasto": "New Jamesstad",
+          "kod_pocztowy": "34981",
+          "kraj": "Cape Verde"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Shawnhaven",
+          "kod_UNLOCODE": "JOKYY"
+        },
+        "port_docelowy": {
+          "nazwa": "Mckinneyshire",
+          "kod_UNLOCODE": "GTVBS"
+        },
+        "terminy": {
+          "załadunek": "1998-06-18",
+          "wyjście_statku": "2008-08-06",
+          "przewidywane_dostarczenie": "1991-02-17"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "457403-5023",
+      "data_utworzenia": "1980-03-13",
+      "status": "Anulowane",
+      "klient": {
+        "nazwa": "Lowery LLC",
+        "nip": "204-063-49-32",
+        "adres": {
+          "ulica": "12172 Nichols Plains Suite 164",
+          "miasto": "East Cathy",
+          "kod_pocztowy": "30907",
+          "kraj": "Russian Federation"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "West Hannahmouth",
+          "kod_UNLOCODE": "GTFCL"
+        },
+        "port_docelowy": {
+          "nazwa": "West Robert",
+          "kod_UNLOCODE": "TRPNX"
+        },
+        "terminy": {
+          "załadunek": "1989-02-04",
+          "wyjście_statku": "1980-08-02",
+          "przewidywane_dostarczenie": "2004-03-16"
+        }
+      }
+    }
+  },
+  {
+    "zlecenie": {
+      "numer_zlecenia": "999999-9999",
+      "data_utworzenia": "2024-03-20",
+      "status": "Nowe",
+      "klient": {
+        "nazwa": "Test Company",
+        "nip": "123-456-78-90",
+        "adres": {
+          "ulica": "Testowa 1",
+          "miasto": "Warszawa",
+          "kod_pocztowy": "00-001",
+          "kraj": "Polska"
+        }
+      },
+      "trasa": {
+        "port_załadunku": {
+          "nazwa": "Gdańsk",
+          "kod_UNLOCODE": "PLGDN"
+        },
+        "port_docelowy": {
+          "nazwa": "Hamburg",
+          "kod_UNLOCODE": "DEHAM"
+        },
+        "terminy": {
+          "załadunek": "2024-04-01",
+          "wyjście_statku": "2024-04-03",
+          "przewidywane_dostarczenie": "2024-04-10"
+        }
+      }
+    }
+  }
+]
