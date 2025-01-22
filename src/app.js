@@ -1,9 +1,9 @@
 import express from "express";
 import cors from 'cors';
 
-import orderRoutes from "./routes/teams/zlecenia.js";      // zlecenia
-import productRoutes from "./routes/teams/towary.js";  // towary
-import containerRoutes from "./routes/teams/kontenery.js";  // kontenery
+import orderRoutes from "./routes/teams/zlecenia.js";
+import productRoutes from "./routes/teams/towary.js";
+import containerRoutes from "./routes/teams/kontenery.js";
 
 const app = express();
 
@@ -22,7 +22,6 @@ app.use((req, res, next) => {
     next();
 });
 
-// API routes
 app.use('/api/', orderRoutes, productRoutes, containerRoutes);
 
 app.get('/', (req, res) => {
@@ -36,7 +35,6 @@ app.get('/', (req, res) => {
     });
 });
 
-// Error handling middleware
 app.use((err, req, res, next) => {
     console.error(err.stack);
     res.status(500).json({
@@ -45,7 +43,6 @@ app.use((err, req, res, next) => {
     });
 });
 
-// 404 handling
 app.use((req, res) => {
     res.status(404).json({
         error: 'Nie znaleziono zasobu',
