@@ -1,0 +1,34 @@
+syntax = "proto3";
+
+package towar;
+
+message Towar {
+  string numer_towaru = 1;
+  string nazwa = 2;
+  string ilosc = 3;
+  string jednostka = 4;
+  string wartosc = 5;
+}
+
+message GetTowarRequest {
+  string numer_towaru = 1;
+}
+
+message ListTowaryRequest {
+  optional int32 page_size = 1;
+  optional int32 page_number = 2;
+}
+
+message TowarResponse {
+  Towar towar = 1;
+}
+
+message ListTowaryResponse {
+  repeated Towar towary = 1;
+  int32 total_count = 2;
+}
+
+service TowarService {
+  rpc GetTowar(GetTowarRequest) returns (TowarResponse);
+  rpc ListTowary(ListTowaryRequest) returns (ListTowaryResponse);
+}

@@ -1,0 +1,59 @@
+syntax = "proto3";
+
+package kontener;
+
+message Wymiary {
+  string dlugosc = 1;
+  string szerokosc = 2;
+  string wysokosc = 3;
+  string jednostka = 4;
+}
+
+message Opakowanie {
+  string rodzaj = 1;
+  Wymiary wymiary = 2;
+}
+
+message Waga {
+  string brutto = 1;
+  string netto = 2;
+  string jednostka = 3;
+}
+
+message Ladunek {
+  string opis = 1;
+  string ilosc_palet = 2;
+  Opakowanie opakowanie = 3;
+}
+
+message Kontener {
+  string numer_zlecenia = 1;
+  string numer_kontenera = 2;
+  string typ = 3;
+  Waga waga = 4;
+  string numer_towaru = 5;
+  Ladunek ladunek = 6;
+}
+
+message GetKontenerRequest {
+  string numer_kontenera = 1;
+}
+
+message ListKonteneryRequest {
+  optional int32 page_size = 1;
+  optional int32 page_number = 2;
+}
+
+message KontenerResponse {
+  Kontener kontener = 1;
+}
+
+message ListKonteneryResponse {
+  repeated Kontener kontenery = 1;
+  int32 total_count = 2;
+}
+
+service KontenerService {
+  rpc GetKontener(GetKontenerRequest) returns (KontenerResponse);
+  rpc ListKontenery(ListKonteneryRequest) returns (ListKonteneryResponse);
+}

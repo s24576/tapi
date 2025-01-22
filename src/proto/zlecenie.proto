@@ -1,0 +1,65 @@
+syntax = "proto3";
+
+package zlecenie;
+
+message Adres {
+  string ulica = 1;
+  string miasto = 2;
+  string kod_pocztowy = 3;
+  string kraj = 4;
+}
+
+message Klient {
+  string nazwa = 1;
+  string nip = 2;
+  Adres adres = 3;
+}
+
+message Port {
+  string nazwa = 1;
+  string kod_UNLOCODE = 2;
+}
+
+message Terminy {
+  string zaladunek = 1;
+  string wyjscie_statku = 2;
+  string przewidywane_dostarczenie = 3;
+}
+
+message Trasa {
+  Port port_zaladunku = 1;
+  Port port_docelowy = 2;
+  Terminy terminy = 3;
+}
+
+message Zlecenie {
+  string numer_zlecenia = 1;
+  string data_utworzenia = 2;
+  string status = 3;
+  Klient klient = 4;
+  Trasa trasa = 5;
+}
+
+message GetZlecenieRequest {
+  string numer_zlecenia = 1;
+}
+
+message ListZleceniaRequest {
+  optional int32 page_size = 1;
+  optional int32 page_number = 2;
+  optional string status = 3;
+}
+
+message ZlecenieResponse {
+  Zlecenie zlecenie = 1;
+}
+
+message ListZleceniaResponse {
+  repeated Zlecenie zlecenia = 1;
+  int32 total_count = 2;
+}
+
+service ZlecenieService {
+  rpc GetZlecenie(GetZlecenieRequest) returns (ZlecenieResponse);
+  rpc ListZlecenia(ListZleceniaRequest) returns (ListZleceniaResponse);
+}
