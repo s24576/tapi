@@ -1,9 +1,9 @@
 import express from "express";
 import cors from 'cors';
 
-import orderRoutes from "./routes/teams/zlecenia.js";
-import productRoutes from "./routes/teams/towary.js";
-import containerRoutes from "./routes/teams/kontenery.js";
+import orderRoutes from "./routes/zlecenia.js";
+import productRoutes from "./routes/towary.js";
+import containerRoutes from "./routes/kontenery.js";
 
 const app = express();
 
@@ -28,9 +28,9 @@ app.get('/', (req, res) => {
     res.status(200).json({
         message: 'Witamy w API systemu zarządzania logistyką!',
         _links: {
-            orders: { href: 'http://localhost:3000/api/teams', method: 'GET' },
-            products: { href: 'http://localhost:3000/api/players', method: 'GET' },
-            containers: { href: 'http://localhost:3000/api/games', method: 'GET' }
+            orders: { href: 'http://localhost:3000/api/zlecenia', method: 'GET' },
+            products: { href: 'http://localhost:3000/api/towary', method: 'GET' },
+            containers: { href: 'http://localhost:3000/api/kontnery', method: 'GET' }
         }
     });
 });
